@@ -1,3 +1,5 @@
+## Following sentdex's video as in https://www.youtube.com/watch?v=mynJtLhhcXk
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("/tmp/data/", one_hot = True)
